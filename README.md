@@ -1,4 +1,3 @@
-# Rock and Mine Prediction
 # Classification Project - Rock vs Mine
 
 This project aims to classify rocks and mines using supervised learning techniques. The dataset is read using the pandas library, and the sklearn library is utilized for implementing the logistic regression model. 
